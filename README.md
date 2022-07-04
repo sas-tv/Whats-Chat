@@ -1,4 +1,6 @@
 # Whats-Chat
-Open up two tabs of this application link. Provide two different names and same room name. 
+1. Open up two tabs of this application link. 
 
-Join and enjoy! 
+2. Provide two different Display Names and same Room Name. 
+
+3. Join and enjoy! 
