@@ -1,7 +1,5 @@
 # Whats-Chat
 
-||---What's Chat---||
-
 A chatting app that doesn't save your chat history and respects your privacy.
 
 1. Open up two tabs of this application link. 
